@@ -145,7 +145,7 @@ Open Terminal and type
 git clone https://github.com/hyperledger/fabric-samples.git 
     • Cloning Repository Blockchain Training Labs
 Open Terminal and type
-git clone  https://github.com/khrandm/blockchain-training-labs.git
+git clone  https://github.com/edwardclederaables/blockchain-training-labs.git
 
 	Second, In blockchain training labs folder copy the chaincode and supply folder and paste it inside the fabric samples folder to merge the file and easy to configure the mandatory assignments.
     • 
